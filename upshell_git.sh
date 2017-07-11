@@ -51,7 +51,7 @@ git remote remove origin
 
 git branch NguyenDinhThai
 git checkout NguyenDinhThai
-git pull origin master
+git pull origin NguyenDinhThai
 git reset --mixed
 
 git remote add origin "$path"
