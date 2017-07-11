@@ -1,7 +1,7 @@
 <h2>DANH SÁCH LỖI</h2>
 
-<br>Người tạo: Nguyễn Đình Thái
-<br>Thời gian: 14/7/2017
+<br>Người thực hiện: Nguyễn đình thái
+<br>Ngày: 12/07/2017
 
 LỖI SOCKET
 
