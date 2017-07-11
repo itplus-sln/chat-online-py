@@ -51,15 +51,13 @@ git remote remove origin
 
 git branch NguyenDinhThai
 git checkout NguyenDinhThai
-git pull origin NguyenDinhThai
-git reset --mixed
+#git pull origin NguyenDinhThai
+#git reset --mixed
 
 git remote add origin "$path"
-#git remote set-url origin git@github.com/TCU1/ChatClientServer_Python/
 git remote set-url origin git@gist.github.com:TCU1/ChatClientServer_Python
 
-
-git push -f origin NguyenDinhThai
+git push origin NguyenDinhThai
 
 echo
 echo "DONE!!!"	
