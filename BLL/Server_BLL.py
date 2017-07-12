@@ -193,6 +193,16 @@ class Server:
             self.SendtoClient(newserverSocket, newTranf, newSock, countUser)
 	    #self.server.broadcast(server_socket, sock, MessageContent)
 
+        elif "#m" in RecvData:
+            
+            print "music:"
+            MessageContent=self.msg.msg2
+            print MessageContent
+            try:
+                self.SendtoClient(newserverSocket, newTranf, newSock, MessageContent)
+            except:
+                pass
+
         elif "#exit" in RecvData:
             
             try:

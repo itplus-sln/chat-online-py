@@ -195,8 +195,6 @@ class bcolors:
 
 class Msg:
     def __init__(self):
-        P = Process()
-        self.msg1= "[ " + P.getCurrentDateTime('t') + "]- [AUTO] [ADMIN*THAI] : Chào mừng đến với phòng chat :)"
         self.msg2= """
         Đường phố thinh lặng, 
         Chỉ còn cơn gió thoáng đưa một chút sương lạnh 
