@@ -3,19 +3,11 @@
 <br>Người thực hiện: Nguyễn đình thái
 <br>Ngày: 12/07/2017
 
-LỖI SOCKET
+LỖI CHẠY SERVER
 
-
-1.Trên Windows
+1.Trên LINUX
 
 <img src='../img/issue.png'>
 
-Nguyên nhân:  thư viện WinSocks hoặc ngăn xếp TCP / IP bị hỏng.
-
-Khắc phục:
-https://support.microsoft.com/en-us/help/318584/you-receive-an-operation-was-attempted-on-something-that-is-not-a-sock
-
-
-
-
+Nguyên nhân:  Server đang hoạt động trên cả 2 cổng 8888 và 8889
 
