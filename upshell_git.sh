@@ -48,24 +48,21 @@ git add *
 git commit -m "$commit"
 git remote remove origin
 
-
-
-git reset --mixed
-
+#git reset --mixed
+git fetch origin NguyenDinhThai
 git remote add origin "$path"
 git remote set-url origin git@gist.github.com:TCU1/ChatClientServer_Python
-
 
 git branch NguyenDinhThai
 git checkout NguyenDinhThai
 #git pull origin NguyenDinhThai
+git push -f origin NguyenDinhThai
 
-git push origin NguyenDinhThai
-
-echo "Merge Nguyen Dinh Thai ->Master " 
-
-git checkout master
-git merge NguyenDinhThai
+#echo "Merge Master <- Nguyen Dinh Thai" 
+#git checkout master
+#git commit -m "Merge"
+#git pull origin master
+#git merge NguyenDinhThai
 
 echo
 echo "DONE!!!"	
