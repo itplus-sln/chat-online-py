@@ -1,8 +1,12 @@
 #process
 # -*- coding: utf-8 -*-
+########################################
+# Write by IT PLUS TEAM
+########################################
 import time
 import socket
 #get URL
+
 import urllib
 
 class Process:
@@ -176,7 +180,7 @@ class Process:
         #print "RecvData - MessageContent ",MessageContent
         return MessageContent
 
-
+# Xay Dung Color 
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -192,7 +196,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 
-
+# Thong diep
 class Msg:
     def __init__(self):
         self.msg2= """

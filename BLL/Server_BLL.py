@@ -1,15 +1,9 @@
 # chat_server.py
 # -*- coding: utf-8 -*-
 # Chuong trinh chat online
-# Nguyen Dinh Thai - thai.itplus@gmail.com - fb: chickns0up
-#
-#
-#
-#
-#
-#
-
-##########################################################################
+########################################
+# Write by IT PLUS TEAM
+########################################
 
 from Process_BLL import *
 
@@ -29,7 +23,7 @@ Tranf           =None
 
 ##########################################################################
 
-
+# Khoi Tao Server
 class Server:
     def __init__(self):
         os.system('clear')

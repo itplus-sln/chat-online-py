@@ -23,12 +23,12 @@ PORT2       = 8889
 #Number Of CLient Connect
 MaxClient   = 10
 
-
+# Lop SERVER CHAT
 class ServerChat:
     def __init__(self):
         self.pr = Process()
         self.server = Server()
-
+# Khoi tao server
     def chat_server(self):
 	# Tao Server
         server_socket       = self.server.BindServer(PORT,PORT2, MaxClient)
