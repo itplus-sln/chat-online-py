@@ -22,17 +22,20 @@
 <br>Cho phép các client(user) có thể chat trực tiếp với nhau,không cần đăng ký tài khoản, không phân biệt tuổi tác, trình độ học vấn,.Ai cũng có thể sử dụng được!!!
 
 <h3>1.2: Hướng phát triển trong tương lai:</h3>
-
-<br> Triển khai trên nhiều nhiều hệ điều hành: Ưindows, Mac-OS
+<ol>
+<li> 23</li>
+</ol>
+<br> Triển khai trên nhiều nhiều hệ điều hành: Windows, Mac-OS
 <br> Đảm bảo bảo mật thông tin cho các client
-<br> Cho phép triển khai nhiều kênh
+<br> Cho phép gửi file giữa các client
+<br> Cho phép triển khai nhiều kênh chat riêng
 <br> Hỗ trợ số lượng lớn client chat cũng lúc
 <br> Giao diện trực quan
 		
-Ứng dụng được nhóm tác giả xây dựng bằng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.
-Ứng dụng chat được thiết kế cho phép chạy trên Nền tảng Linux (Kali Linux,Ubuntu,Fedora,CentOS,Linux Mint,...)
-COde được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
-Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người.
+<br> Ứng dụng được nhóm tác giả xây dựng bằng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.
+<br> Ứng dụng chat được thiết kế cho phép chạy trên Nền tảng Linux (Kali Linux,Ubuntu,Fedora,CentOS,Linux Mint,...)
+<br> COde được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
+<br> Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người.
 	
 <h2>2: Mô hình triển khai & chuẩn mực lập trình: </h2>
 
