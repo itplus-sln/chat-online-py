@@ -30,11 +30,11 @@
 		
 Ứng dụng được nhóm tác giả xây dựng trên nền tảng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.
 COde được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
-Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người
+Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người.
 	
 <h2>2: Mô hình triển khai & chuẩn mực lập trình: </h2>
 
-Tài liệu về chuẩn lập trình tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md">đây</a>
+xem tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md">đây</a>
 
 <h2> 3: Hướng dẫn sử dụng ứng dụng: </h2>
 Xem hướng dẫn tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">đây</a>
