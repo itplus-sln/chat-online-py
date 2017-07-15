@@ -27,9 +27,9 @@
 		<br> Hỗ trợ số lượng lớn client chat cũng lúc
 		<br> Giao diện trực quan
 	
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md>2: Chuẩn lập trình: </a></h2>
+<h2> <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md>"2: Chuẩn lập trình: </a></h2>
 
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">3: Hướng dẫn sử dụng: </a></h2>
+<h2> <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">3: Hướng dẫn sử dụng: </a></h2>
 
 
 <h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">4: Tài liệu cho người dùng cuối: </a></h2>
