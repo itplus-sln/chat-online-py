@@ -37,9 +37,11 @@ Tài liệu về chuẩn lập trình tại <a href="https://github.com/TCU1/Cha
 
 <h2> 3: Hướng dẫn sử dụng ứng dụng: </h2>
 Xem hướng dẫn tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">đây</a>
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">4: Tài liệu cho người dùng cuối: </a></h2>
 
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">5: Tài liệu cho nhà phát triển: </a></h2>
+<h2>4: Tài liệu cho người dùng cuối:</h2>
+Xem tài liệu người dùng cuối ở <a href="">đây</a>
+
+<h2>5: Tài liệu cho nhà phát triển: </h2>
 Xem tài liệu cho nhà phát triển tại <a href="https://drive.google.com/file/d/0BzFhBdZmpSNKQ3dpQ2Z6NW5lVmc/view?usp=sharing">đây</a>
 
 <h2>6: Kênh trao đổi thông tin: </h2>
