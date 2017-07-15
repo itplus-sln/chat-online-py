@@ -9,6 +9,7 @@
 
 <h2>Hình Ảnh Sản Phẩm:</h2>
 <img src='/img/chat.PNG'>
+<img src='/img/hdsd_client.png'>
 <br><img src='/img/server2.PNG'>
 
 
