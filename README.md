@@ -1,15 +1,14 @@
 <h1>MÔN PHÁT TRIỂN PHẦN MỀM NGUỒN MỞ (4305)</h1>
 <h1>Tên đề tài : Xây dựng ứng dụng chat Online(Python) </h1>
 <h2>Thành viên:</h2>
-	<br><a href="https://www.facebook.com/chickns0up"> 1.Nguyễn Đình Thái (Trưởng nhóm)
+	<br><a href="https://www.facebook.com/chickns0up"> 1.Nguyễn Đình Thái (Trưởng nhóm) </a>
 	<br>Email: thai.itplus@gmail.com
-	<br><a href="https://www.facebook.com/trinh.binh.969">2.Trịnh Văn Bình
+	<br><a href="https://www.facebook.com/trinh.binh.969">2.Trịnh Văn Bình </a>
 	<br>Email: binhboibac.dhttll@gmail.com
 
 
-<h2>Sản Phẩm:</h2>
+<h2>Hình Ảnh Sản Phẩm:</h2>
 <img src='/img/chat.PNG'>
-<br>Triển khai server dự phòng 
 <br><img src='/img/server2.PNG'>
 
 
