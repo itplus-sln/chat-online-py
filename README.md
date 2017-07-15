@@ -12,38 +12,35 @@
 <br><img src='/img/server2.PNG'>
 
 
-<h2>Phần 1: Mục tiêu Đề tài & Hướng phát triển trong tương lai</h2>
+<h2>1: Mục tiêu Đề tài & Hướng phát triển trong tương lai</h2>
 
-<h3>1: Mục tiêu Đề tài:</h3>	
+<h3>1.1: Mục tiêu Đề tài:</h3>	
 
 		<br> Tạo ra ứng dụng chat nhóm giữa các thành viên với nhau, triển khai theo mô hình server & client
 		<br> Có thể trao đổi thông tin giữa các client trong mạng LAN, Mạng Internet, qua khoảng cách địa lý lớn.
 		<br> trên tiêu chí nhỏ gọn, dễ sử dụng.
 
-<h3>2: Hướng phát triển trong tương lai:</h3>
+<h3>1.2: Hướng phát triển trong tương lai:</h3>
 
 		<br> Đảm bảo bảo mật thông tin cho các client
 		<br> Cho phép triển khai nhiều kênh
 		<br> Hỗ trợ số lượng lớn client chat cũng lúc
 		<br> Giao diện trực quan
 	
-<h2>Phần 2: Chuẩn lập trình:</h2>
-https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md> </a>2: Chuẩn lập trình:</h2>
+
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">3: Hướng dẫn sử dụng: </a></h2>
 
 
-<h2>Phần 3: Hướng dẫn sử dụng:</h2>
-https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">4: Tài liệu cho người dùng cuối: </a></h2>
 
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">5: Tài liệu cho nhà phát triển: </a></h2>
 
-<h2>
-<a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document"> Phần 6: Tài liệu cho người dùng cuối:</h2>
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">6: Kênh trao đổi thông tin: </a></h2>
 
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document"> Phần 7: Tài liệu cho nhà phát triển:</h2>
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">7: Tài liệu thiết kế: </a></h2>
 
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">  Phần 8: Kênh trao đổi thông tin:</h2>
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">8: Thông tin giấy phép & tổ chức mã nguồn: </a></h2>
 
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">  Phần 9: Tài liệu cho nhà phát triển:</h2>
-
-<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">  Phần 10: Thông tin giấy phép & tổ chức mã nguồn:</h2>
-
+<h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">9: Danh sách mã lỗi: </a></h2>
 
