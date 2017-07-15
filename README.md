@@ -16,9 +16,10 @@
 
 <h3>1.1: Mục tiêu Đề tài:</h3>	
 
-		<br> Tạo ra ứng dụng chat nhóm giữa các thành viên với nhau, triển khai theo mô hình server & client
-		<br> Có thể trao đổi thông tin giữa các client trong mạng LAN, Mạng Internet, qua khoảng cách địa lý lớn.
-		<br> trên tiêu chí nhỏ gọn, dễ sử dụng.
+		Mục tiêu của đề tài nhằm tạo ra 1 ứng dụng chat nhóm giữa các thành viên với nhau, 
+		Giúp trao đổi thông tin giữa các client(user) trong nội bộ mạng LAN (trong 1 công ty, một tổ chức, trường đại học,...), huặc qua mạng Internet, nhằm giúp kết nối mọi người lại với nhau ở mọi khoảng cách địa lý, 
+		Ứng dụng giúp mọi người có thể trò chuyện, tán gẫu, chém gió sau những khoảng thời gian làm việc căng thẳng.
+		Ứng dụng được xây dựng trên nền tảng ngôn ngữ python, cho phép các client(user) có thể chat trực tiếp với nhau,không cần đăng ký tài khoản, không phân biệt tuổi tác, trình độ học vấn,.Ai cũng có thể sử dụng được!!!
 
 <h3>1.2: Hướng phát triển trong tương lai:</h3>
 
@@ -26,7 +27,9 @@
 		<br> Cho phép triển khai nhiều kênh
 		<br> Hỗ trợ số lượng lớn client chat cũng lúc
 		<br> Giao diện trực quan
-	
+		
+Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người
+
 	
 <h2>2: Chuẩn lập trình: </h2>
 
