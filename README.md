@@ -8,9 +8,9 @@
 
 
 <h2>Hình Ảnh Sản Phẩm:</h2>
-<img src='../img/chat.PNG'>
-<img src='../img/hdsd_client.png'>
-<br><img src='../img/chat2.PNG'>
+<img src='img/chat.PNG'>
+<img src='img/hdsd_client.png'>
+<br><img src='img/chat2.PNG'>
 
 
 <h2>1: Mục tiêu Đề tài & Hướng phát triển trong tương lai</h2>
