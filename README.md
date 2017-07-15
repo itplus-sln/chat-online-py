@@ -23,12 +23,14 @@
 
 <h3>1.2: Hướng phát triển trong tương lai:</h3>
 
+<br> Triển khai trên nhiều nhiều hệ điều hành: Ưindows, Mac-OS
 <br> Đảm bảo bảo mật thông tin cho các client
 <br> Cho phép triển khai nhiều kênh
 <br> Hỗ trợ số lượng lớn client chat cũng lúc
 <br> Giao diện trực quan
 		
-Ứng dụng được nhóm tác giả xây dựng trên nền tảng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.
+Ứng dụng được nhóm tác giả xây dựng bằng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.
+Ứng dụng chat được thiết kế cho phép chạy trên Nền tảng Linux (Kali Linux,Ubuntu,Fedora,CentOS,Linux Mint,...)
 COde được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
 Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người.
 	
