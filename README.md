@@ -39,21 +39,21 @@ Tài liệu về chuẩn lập trình tại <a href="https://github.com/TCU1/Cha
 <h2> 3: Hướng dẫn sử dụng ứng dụng: </h2>
 Xem hướng dẫn tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">đây</a>
 
-<h2>4: Tài liệu cho người dùng cuối:</h2>
+<h2> 4: Kênh trao đổi thông tin: </h2>
+Mọi thắc mắc về ứng dụng,trao đổi thông tin... xin vui lòng vào <a href="https://www.facebook.com/chickns0up">đây</a>
+
+<h2>5: Tài liệu cho người dùng cuối:</h2>
 Xem tài liệu người dùng cuối ở <a href="">đây</a>
 
-<h2>5: Tài liệu cho nhà phát triển: </h2>
+<h2>6: Tài liệu cho nhà phát triển: </h2>
 Xem tài liệu cho nhà phát triển tại <a href="https://drive.google.com/file/d/0BzFhBdZmpSNKQ3dpQ2Z6NW5lVmc/view?usp=sharing">đây</a>
-
-<h2>6: Kênh trao đổi thông tin: </h2>
-Mọi thắc mắc về ứng dụng,trao đổi thông tin... xin vui lòng vào <a href="https://www.facebook.com/chickns0up">đây</a>
 
 <h2>7: Tài liệu thiết kế: </h2>
 Xem tài liệu thiết kế chi tiết tại <a href="https://drive.google.com/file/d/0BzFhBdZmpSNKXzRjR1pueWdlNVk/view?usp=sharing">đây</a>
 
-<h2>8: Thông tin giấy phép & tổ chức mã nguồn: </h2>
-Thông tin giấy phép và tổ chức mã nguồn ở <a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">đây</a>
+<h2>8: Giấy phép sử dụng: </h2>
+Thông tin giấy phép ở <a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">đây</a>
 
-<h2>9: Danh sách mã lỗi: </h2>
-Xem danh sách mã lỗi ở <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/issues.md">đây</a>
+<h2>9: Danh sách lỗi: </h2>
+Xem danh sách lỗi ở <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/issues.md">đây</a>
 
