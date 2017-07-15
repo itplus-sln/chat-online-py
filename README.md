@@ -40,9 +40,10 @@ Xem hướng dẫn tại <a href="https://github.com/TCU1/ChatClientServer_Pytho
 <h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">4: Tài liệu cho người dùng cuối: </a></h2>
 
 <h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">5: Tài liệu cho nhà phát triển: </a></h2>
-Xem tài liệu cho nhà phát triển tại <a href="https://drive.google.com/file/d/0BzFhBdZmpSNKeVFpLXVCOWhQS2s/view?usp=sharing">đây</a>
+Xem tài liệu cho nhà phát triển tại <a href="https://drive.google.com/file/d/0BzFhBdZmpSNKQ3dpQ2Z6NW5lVmc/view?usp=sharing">đây</a>
+
 <h2>6: Kênh trao đổi thông tin: </h2>
-Mọi thắc mắc về ứng dụng,... xin vui lòng vào <a href="https://www.facebook.com/chickns0up">đây</a>
+Mọi thắc mắc về ứng dụng,trao đổi thông tin... xin vui lòng vào <a href="https://www.facebook.com/chickns0up">đây</a>
 
 <h2>7: Tài liệu thiết kế: </h2>
 Xem tài liệu thiết kế chi tiết tại <a href="https://drive.google.com/file/d/0BzFhBdZmpSNKXzRjR1pueWdlNVk/view?usp=sharing">đây</a>
