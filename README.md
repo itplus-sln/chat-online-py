@@ -27,9 +27,9 @@
 <br> Hỗ trợ số lượng lớn client chat cũng lúc
 <br> Giao diện trực quan
 		
-Ứng dụng được nhóm tác giả xây dựng trên nền tảng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.		
+Ứng dụng được nhóm tác giả xây dựng trên nền tảng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.
+COde được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
 Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người
-
 	
 <h2>2: Chuẩn lập trình: </h2>
 
