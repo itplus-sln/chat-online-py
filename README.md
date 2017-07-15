@@ -31,12 +31,12 @@
 COde được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
 Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng phát triển ứng dụng tốt hơn, đáp ứng nhu cầu của mọi người
 	
-<h2>2: Chuẩn lập trình: </h2>
+<h2>2: Mô hình triển khai & chuẩn mực lập trình: </h2>
 
-<a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md">Tài liệu về chuẩn lập trình tại đây</a>
+Tài liệu về chuẩn lập trình tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md">đây</a>
 
-<h2> <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">3: Hướng dẫn sử dụng: </a></h2>
-
+<h2> 3: Hướng dẫn sử dụng ứng dụng: </h2>
+Xem hướng dẫn tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/hdsd.md">đây</a>
 <h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">4: Tài liệu cho người dùng cuối: </a></h2>
 
 <h2><a href="https://github.com/TCU1/ChatClientServer_Python/tree/master/Document">5: Tài liệu cho nhà phát triển: </a></h2>
