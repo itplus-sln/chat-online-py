@@ -104,7 +104,6 @@ class ServerChat:
             # server_socket.close()
             # file_Store.close()
 
-
 if __name__ == "__main__":
     chat2=ServerChat()
     sys.exit(chat2.chat_server())
