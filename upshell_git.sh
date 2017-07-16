@@ -31,7 +31,7 @@ echo
 
 
 git config --global core.editor "$work_path"
-#it init
+git init
 
 cd $work_path
 ls -la
