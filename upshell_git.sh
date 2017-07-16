@@ -82,5 +82,10 @@ git push -f origin NguyenDinhThai
 #git pull origin master
 #git merge NguyenDinhThai
 
+git checkout master
+git pull origin master
+git commit -m "Merge 2"
+git merge TrinhVanBinh
+
 echo
 echo "DONE!!!"	
