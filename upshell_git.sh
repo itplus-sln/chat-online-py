@@ -68,5 +68,10 @@ git remote set-url origin git@gist.github.com:TCU1/ChatClientServer_Python
 
 git push -f origin TrinhVanBinh
 
+git checkout master
+git pull origin master
+git commit -m "Merge 2"
+git merge TrinhVanBinh
+
 echo
 echo "DONE!!!"	
