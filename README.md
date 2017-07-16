@@ -3,7 +3,7 @@
 <h2>Thành viên:</h2>
 	<br><a href="https://www.facebook.com/chickns0up"> 1.Nguyễn Đình Thái (Trưởng nhóm) </a>
 	<br>Email: thai.itplus@gmail.com
-	<br><a href="https://www.facebook.com/trinh.binh.969">2.Trịnh Văn Bình </a>
+	<br><a href="https://www.facebook.com/trinh.binh.969">2.Trịnh Văn Bình (Đồng tác giả)</a>
 	<br>Email: binhboibac.dhttll@gmail.com
 
 
