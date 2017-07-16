@@ -1,5 +1,8 @@
 # chat_client.py
 # -*- coding: utf-8 -*-
+########################################
+# Write by IT PLUS TEAM
+########################################
 
 import os
 import sys
