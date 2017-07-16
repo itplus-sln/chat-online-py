@@ -23,7 +23,7 @@ Tranf           =None
 
 ##########################################################################
 
-# Khoi Tao Server
+
 class Server:
     def __init__(self):
         os.system('clear')
