@@ -107,7 +107,7 @@ Xem các chính sách ở <a href="https://github.com/TCU1/ChatClientServer_Pyth
 
 <h1>VI: Kết thúc: </h1>
 <h2>3: Lời Cảm ơn: </h2>
-Để xây dựng ứng dụng "chat client" nhóm đã áp dụng khá nhiều kiến thức Lập trình, Xây dựng mô hình, Phân công nhiệm vụ, Học hỏi từ nhiều nguồn, xin cảm ơn thầy Mai Cường Thọ – giảng viên khoa CNTT Trường Đại học Nha Trang,Khoa Mạng Máy Tính đã giúp đỡ, tạo điều kiện thuận lợi để nhóm phát triển sản phẩm & hoàn thành đề tài!!!
+Để xây dựng ứng dụng "chat client" nhóm đã áp dụng khá nhiều kiến thức Lập trình, Xây dựng mô hình, Phân công nhiệm vụ, Học hỏi từ nhiều nguồn, xin cảm ơn thầy Mai Cường Thọ – giảng viên khoa CNTT Trường Đại học Nha Trang,Khoa Công Nghệ Phần Mềm Tính đã giúp đỡ, tạo điều kiện thuận lợi để nhóm phát triển sản phẩm & hoàn thành đề tài!!!
 
 
 
