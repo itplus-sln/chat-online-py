@@ -1,11 +1,10 @@
 <h1>MÔN PHÁT TRIỂN PHẦN MỀM NGUỒN MỞ (4305)</h1>
 <h1>Tên đề tài : Xây dựng ứng dụng chat Online</h1>
 <h2>Thành viên:</h2>
-	<br><a href="https://www.facebook.com/chickns0up"> 1.Nguyễn Đình Thái (Trưởng nhóm) </a>
+	<br> 1.Nguyễn Đình Thái (Trưởng nhóm)
 	<br>Email: thai.itplus@gmail.com
-	<br><a href="https://www.facebook.com/trinh.binh.969">2.Trịnh Văn Bình (Đồng tác giả)</a>
+	<br>2.Trịnh Văn Bình (Đồng tác giả)</a>
 	<br>Email: binhboibac.dhttll@gmail.com
-
 
 <h2>Hình Ảnh Sản Phẩm:</h2>
 <img src='img/chat.PNG'>
@@ -45,7 +44,7 @@ Mục tiêu của đề tài nhằm tạo ra 1 ứng dụng chat nhóm giữa c�
 xem tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md">đây</a>
 
 <h2> 3: Kênh trao đổi thông tin: </h2>
-Mọi thắc mắc về ứng dụng,trao đổi thông tin... xin vui lòng vào <a href="https://www.facebook.com/chickns0up">đây</a>
+Mọi thắc mắc về ứng dụng,trao đổi thông tin... xin vui lòng vào <a href="https://www.facebook.com/itplussln/">đây</a>
 
 <h2>4: Tài liệu cho người dùng cuối:</h2>
 Xem tài liệu người dùng cuối ở <a href="">đây</a>
