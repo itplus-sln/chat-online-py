@@ -12,8 +12,7 @@
 <img src='img/hdsd_client.png'>
 <br><img src='img/chat2.PNG'>
 
-
-<h2>1: Mục tiêu Đề tài & Hướng phát triển trong tương lai</h2>
+<h2>1: Mục tiêu Đề tài & Định hướng phát triển</h2>
 
 <h3>1.1: Mục tiêu Đề tài:</h3>	
 <br>Mục tiêu của đề tài nhằm tạo ra 1 ứng dụng chat nhóm giữa các thành viên với nhau, 
@@ -28,12 +27,17 @@
 <br> 	Cho phép gửi file giữa các client
 <br> 	Cho phép triển khai nhiều kênh chat riêng, Hỗ trợ số lượng lớn client chat cũng lúc
 <br> 	Giao diện trực quan,dễ sử dụng
-		
+
+<h3>1.3: Cộng tác viên:</h3>
 <br> Ứng dụng được nhóm tác giả xây dựng bằng ngôn ngữ python,một ngôn ngữ nguồn mở, một ngôn ngữ trong sáng dể hiểu.
 <br> Ứng dụng chat được thiết kế cho phép chạy trên Nền tảng Linux (Kali Linux,Ubuntu,Fedora,CentOS,Linux Mint,...)
-<br> COde được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
+<br> Code được chú thích rõ ràng, mạch lạc, dễ dàng cho việc nghiên cứu code và phát triển về sau.
 <br> Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng định hướng,phát triển ứng dụng.
-	
+<br>
+<br> Mọi chi tiết đóng góp xin vui lòng liện hệ: Nguyễn Đình Thái
+<br><a href="https://www.facebook.com/chickns0up"> Facebook </a>
+<br><a href="https://twitter.com/kkids1412"> Twitter </a>
+<br> Email: thai.itplus@gmail.com
 	
 <h2>2: Mô hình triển khai & chuẩn mực lập trình: </h2>
 
