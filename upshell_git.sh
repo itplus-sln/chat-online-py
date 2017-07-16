@@ -77,10 +77,10 @@ git push -f origin NguyenDinhThai
 
 
 #echo "Merge Master <- Nguyen Dinh Thai" 
-#git checkout master
-#git commit -m "Merge"
-#git pull origin master
-#git merge NguyenDinhThai
+git checkout master
+git pull origin master
+git commit -m "Merge"
+git merge NguyenDinhThai
 
 echo
 echo "DONE!!!"	
