@@ -54,7 +54,6 @@ Mục tiêu của đề tài nhằm tạo ra 1 ứng dụng chat nhóm giữa c�
 <br> 	Giao diện trực quan,dễ sử dụng
 
 
-
 <h1>III.Tác giả & Liên Hệ:</h1>
 <h2> 1: Thông tin Nhóm Tác Giả: </h2>
 Mọi chi tiết đóng góp xin vui lòng liện hệ: IT-PLUS TEAM
@@ -119,7 +118,7 @@ Xem tài liệu thiết kế chi tiết tại <a href="https://drive.google.com/
 xem video giới thiệu tại <a href="https://www.youtube.com/watch?v=wXUi4oppHgo">đây</a>
 
 
-<h2>1: Tổ chức Mã nguồn </h2>
+<h2>1: Triển khai & Tổ chức Mã nguồn </h2>
 xem tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md">đây</a>
 
 <h2>2: Danh sách lỗi: </h2>
