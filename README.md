@@ -33,7 +33,7 @@ Phần mềm nguồn mở là những phần mềm được cung cấp dưới c
 <br>Tăng cường độ tin cậy (có thể kiểm chứng không có mã độc, “cửa sau”... với mã nguồn được phân phối kèm), ổn định (tuân theo các chuẩn mở ứng dụng lâu dài), tính an toàn, bảo mật (theo báo cáo của Gartner & nhiều tổ chức phân tích độc lập) toàn hệ thống.
 xem thêm thông tin ở <a href="http://www.iwayvietnam.com/nguonmo/loi-ich-phan-mem-nguon-mo.html"> đây </a> 
 
-<h2>II. Mục tiêu Đề tài & Định hướng phát triển</h2>
+<h2>II. Mô tả Đề tài & Định hướng phát triển</h2>
 
 <h3>1: Mô tả Đề tài:</h3>	
 Mục tiêu của đề tài nhằm tạo ra 1 ứng dụng chat nhóm giữa các thành viên với nhau, 
