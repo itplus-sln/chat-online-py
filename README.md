@@ -119,7 +119,7 @@ Xem tài liệu thiết kế chi tiết tại <a href="https://drive.google.com/
 xem video giới thiệu tại <a href="https://www.youtube.com/watch?v=wXUi4oppHgo">đây</a>
 
 
-<h2>1: Mô hình triển khai & chuẩn mực lập trình: </h2>
+<h2>1: Tổ chức Mã nguồn </h2>
 xem tại <a href="https://github.com/TCU1/ChatClientServer_Python/blob/master/Readme/programming.md">đây</a>
 
 <h2>2: Danh sách lỗi: </h2>
