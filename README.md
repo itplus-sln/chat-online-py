@@ -77,7 +77,7 @@ Kiểm duyệt chéo: Những người quản lý kho code sẽ chịu trách nh
 
 Quy trình tham gia phát triển code
 
-Để tham gia phát triển code, chỉ cần 1 tài khoản trên Github. Sau đó truy cập kho code của IT-PLUS-TEAM, ấn nút Fork để copy project có sẵn thành project của mình, rồi sau đó ta có thể tự do chỉnh sửa project đó của mình.
+Để tham gia phát triển code, chỉ cần 1 tài khoản trên Github. Sau đó truy cập kho code của IT-PLUS-TEAM ở <a href="https://github.com/TCU1/ChatClientServer_Python"> đây</a>, ấn nút Fork để copy project có sẵn thành project của mình, rồi sau đó ta có thể tự do chỉnh sửa project đó của mình.
 Chỉnh sửa xong thì ấn nút Pull Request để gửi yêu cầu đóng góp lên cho những người quản lý kho code.
 Những người quản lý kho code sẽ kiểm tra và phê duyệt các đóng góp này. Nếu đóng góp chưa đạt hoặc cần chỉnh sửa thì những người quản lý có thể viết góp ý ngay tại yêu cầu đóng góp và trả lại để người đóng góp chỉnh sửa theo góp ý và gửi lại sau khi đã sửa xong. Quá trình này diễn ra cho đến khi yêu cầu đóng góp được chấp nhận, đóng góp đó sẽ được trộn (merge) vào các nhánh phù hợp với dự án được đóng góp.
 Để tăng hiệu suất quản lý, toàn bộ công việc chỉnh sửa, xử lý xung đột... trước khi gửi đóng góp lên sẽ do người đóng góp xử lý. Người quản lý kho code sẽ chỉ việc kiểm tra và trả lời chứ không phải mất công để sửa lại code được đóng góp.
