@@ -1,5 +1,7 @@
-<h2>Phần 3:Mô hình triển khai & và chuẩn lập trình:</h2>
 
+
+
+<h2>:Mô hình triển khai
 <br>Người thực hiện: Nguyễn đình thái
 <br>Ngày: 12/07/2017
 
