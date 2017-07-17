@@ -13,8 +13,9 @@ Người biên soạn : Nguyễn Đình Thái
 <br>5. Ngoài những điều trên, nói một cách tóm tắt là bạn có toàn quyền tự do sử dụng tất cả các bản quyền của "chat client".
 <br>6. Và sau cùng, cải tiến chương trình và phân phối lại những cải tiến này cho mọi người (điều này cũng kéo theo quyền tự do truy cập mã nguồn).
 
-Xem giấy các phép liên quan tại đây 
+<br>Bản quyền ® thuộc về ITPLUS TEAM,  Mọi thông tin về bản quyền và nhu cầu sử dụng vui lòng liên hệ:
+<br>Kênh hỗ trợ<a href ="https://www.facebook.com/itplussln/?fref=ts" > </a>
+<br>EMAIL:thai.itplus@gmail.com
 
 
-Bản quyền ® thuộc về ITPLUS TEAM
 
