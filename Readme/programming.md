@@ -1,9 +1,5 @@
 <h2>Tổ chức mã nguồn</h2>
 
-xem chi tiết tại <a href="https://drive.google.com/file/d/0BxCvIBgbzyu7eU9kOTlOSkdGUEE/view
-">đây </a>
-
-
 
 <h2>Mô hình triển khai</h2>
 <br>Người thực hiện: Nguyễn đình thái
