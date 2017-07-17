@@ -62,9 +62,8 @@ Mọi chi tiết đóng góp xin vui lòng liện hệ: IT-PLUS TEAM
 <br><a href="https://twitter.com/kkids1412"> Twitter </a>
 <br> Email: thai.itplus@gmail.com
 
-<h3>2: Cộng tác viên:</h3>
+<h3>2: Cộng tác viên & Đóng góp mã nguồn:</h3>
  Nhóm rất sẵn lòng nếu ai đó muốn trở thành cộng tác viên để cùng định hướng,phát triển ứng dụng.
-
 
 Kho code chính của IT-PLUS-TEAM được quản lý thông qua tài khoản của tổ chức IT-PLUS group
 Tài khoản của tổ chức IT-PLUS group được quản lý bởi Ban quản trị IT-PLUS-TEAM và đội ngũ phát triển code chính.
@@ -72,14 +71,25 @@ Tài khoản của tổ chức IT-PLUS group được quản lý bởi Ban quả
 Nguyên tắc phát triển code
 
 Tự do đóng góp: Tất cả mọi người dù là người quản lý kho code, thành viên đội code hay những người đóng góp thuộc các tổ chức, công ty, các cá nhân... đều có thể đóng góp phát triển code một cách tự do.
-Ghi công đóng góp: Việc phát triển code phải thực hiện trên kho code riêng, không được code trực tiếp trên kho code chính của OpenCPS (kể cả tài khoản của người quản lý kho code).
+Ghi công đóng góp: Việc phát triển code phải thực hiện trên kho code riêng, không được code trực tiếp trên kho code chính của IT-PLUS-TEAM (kể cả tài khoản của người quản lý kho code).
 Kiểm duyệt chéo: Những người quản lý kho code sẽ chịu trách nhiệm việc kiểm duyệt code được đóng góp vào kho code chính. (Nên hạn chế việc tự duyệt code của mình trên kho code chính).
+
+
 Quy trình tham gia phát triển code
 
 Để tham gia phát triển code, chỉ cần 1 tài khoản trên Github. Sau đó truy cập kho code của IT-PLUS-TEAM, ấn nút Fork để copy project có sẵn thành project của mình, rồi sau đó ta có thể tự do chỉnh sửa project đó của mình.
 Chỉnh sửa xong thì ấn nút Pull Request để gửi yêu cầu đóng góp lên cho những người quản lý kho code.
 Những người quản lý kho code sẽ kiểm tra và phê duyệt các đóng góp này. Nếu đóng góp chưa đạt hoặc cần chỉnh sửa thì những người quản lý có thể viết góp ý ngay tại yêu cầu đóng góp và trả lại để người đóng góp chỉnh sửa theo góp ý và gửi lại sau khi đã sửa xong. Quá trình này diễn ra cho đến khi yêu cầu đóng góp được chấp nhận, đóng góp đó sẽ được trộn (merge) vào các nhánh phù hợp với dự án được đóng góp.
 Để tăng hiệu suất quản lý, toàn bộ công việc chỉnh sửa, xử lý xung đột... trước khi gửi đóng góp lên sẽ do người đóng góp xử lý. Người quản lý kho code sẽ chỉ việc kiểm tra và trả lời chứ không phải mất công để sửa lại code được đóng góp.
+
+
+
+
+
+
+
+
+
 
 
 <h2>3: Truyền thông: </h2>
