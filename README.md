@@ -35,7 +35,7 @@ xem thêm thông tin ở <a href="http://www.iwayvietnam.com/nguonmo/loi-ich-pha
 
 <h2>II. Mục tiêu Đề tài & Định hướng phát triển</h2>
 
-<h3>1: Mục tiêu Đề tài:</h3>	
+<h3>1: Mô tả Đề tài:</h3>	
 Mục tiêu của đề tài nhằm tạo ra 1 ứng dụng chat nhóm giữa các thành viên với nhau, 
 <br>Giúp trao đổi thông tin giữa các client trong nội bộ mạng LAN (trong 1 công ty, một tổ chức, trường đại học,...), huặc qua mạng Internet, nhằm giúp kết nối mọi người lại với nhau ở mọi khoảng cách địa lý, 
 <br>Ứng dụng giúp mọi người có thể trò chuyện, tán gẫu, chém gió sau những khoảng thời gian làm việc căng thẳng.
