@@ -14,7 +14,7 @@ Người biên soạn : Nguyễn Đình Thái
 <br>6. Và sau cùng, cải tiến chương trình và phân phối lại những cải tiến này cho mọi người (điều này cũng kéo theo quyền tự do truy cập mã nguồn).
 
 <br>Bản quyền ® thuộc về ITPLUS TEAM,  Mọi thông tin về bản quyền và nhu cầu sử dụng vui lòng liên hệ:
-<br>Kênh hỗ trợ<a href ="https://www.facebook.com/itplussln/?fref=ts" > </a>
+<br>Kênh hỗ trợ tại <a href ="https://www.facebook.com/itplussln/?fref=ts"> đây</a>
 <br>EMAIL:thai.itplus@gmail.com
 
 
